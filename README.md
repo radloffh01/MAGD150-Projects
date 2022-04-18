@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# MAGD 150 Projects
 
-You can use the [editor on GitHub](https://github.com/radloffh01/MAGD150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Below is a desciption of 5 projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[s22magd150lab09_radloff](https://github.com/radloffh01/MAGD150-Projects/tree/gh-pages/s22magd150lab09_radloff) is a project orientented around sound and video. The project shows a video of a dog playing with its reflection in a mirror with some joyful sound playing.
 
-### Markdown
+[s22magd150lab06_radloff](https://github.com/radloffh01/MAGD150-Projects/tree/gh-pages/s22magd150lab06_radloff) is a project orientated around orgainzation with a theme of 8-bit games. The project shows an 8-bit style racing game and everytime the projects runs the car is in a different spot.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[s22magd150lab05_radloff](https://github.com/radloffh01/MAGD150-Projects/tree/gh-pages/s22magd150lab05_radloff) is a project orientated around intersections. The project shows a television and has two buttons, one on the other off. When the project runs the televison is off and when the tv gets turned on a screen will appear and the tv will start searching for channels.
 
-```markdown
-Syntax highlighted code block
+[s22magd150lab02_radloff](https://github.com/radloffh01/MAGD150-Projects/tree/gh-pages/s22magd150lab02_radloff) is a project orientated around color composition. The theme of the project is outer space and the project shows a made up planet that might exist with a ring.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/radloffh01/MAGD150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[s22magd150lab08_radloff](https://github.com/radloffh01/MAGD150-Projects/tree/gh-pages/s22magd150_lab08_radloff) is a project orientated around type and image. The theme of this project is movie posters and shows a poster of Batman's netx greatest villian and has animated text.
